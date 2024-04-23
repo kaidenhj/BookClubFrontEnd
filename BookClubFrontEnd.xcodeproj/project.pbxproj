@@ -17,6 +17,7 @@
 		0677A3902BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A38F2BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift */; };
 		0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39D2BD738AA00D6CBAA /* UserProfile.swift */; };
 		0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39F2BD73B9100D6CBAA /* MyClubs.swift */; };
+		0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3A12BD73E9100D6CBAA /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		0677A38F2BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0677A39D2BD738AA00D6CBAA /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		0677A39F2BD73B9100D6CBAA /* MyClubs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClubs.swift; sourceTree = "<group>"; };
+		0677A3A12BD73E9100D6CBAA /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				0677A3782BD7302200D6CBAA /* Preview Content */,
 				0677A39D2BD738AA00D6CBAA /* UserProfile.swift */,
 				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
+				0677A3A12BD73E9100D6CBAA /* Home.swift */,
 			);
 			path = BookClubFrontEnd;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */,
 				0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */,
 				0677A3752BD7301F00D6CBAA /* Item.swift in Sources */,
+				0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */,
 				0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

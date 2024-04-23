@@ -5,14 +5,46 @@
 //  Created by Kaiden Jones on 4/22/24.
 //
 
+
+
 import SwiftUI
+
 
 struct Home: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView{
+        VStack{
+                HStack{
+                    NavigationLink{
+                        UserProfile()
+                    } label:{
+                        Text("User")
+                    }
+                }
+                HStack{
+                    NavigationLink{
+                        MyClubs()
+                    } label:{
+                        Text("User's clubs page button")
+                    }
+                }
+                HStack{
+                    Text("User's books page button")
+                }
+                HStack{
+                    Text("Clubs search page")
+                }
+                HStack{
+                    Text("Log out ")
+                }
+            }.padding()
+        }
     }
 }
 
-#Preview {
-    Home()
+
+struct HomeView_Preview: PreviewProvider{
+    static var previews: some View{
+        Home()
+    }
 }

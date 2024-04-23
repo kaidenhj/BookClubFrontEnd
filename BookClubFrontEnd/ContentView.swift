@@ -10,33 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        NavigationView{
-        VStack{
-                HStack{
-                    NavigationLink{
-                        UserProfile()
-                    } label:{
-                        Text("User")
-                    }
-                }
-                HStack{
-                    NavigationLink{
-                        MyClubs()
-                    } label:{
-                        Text("User's clubs page button")
-                    }
-                }
-                HStack{
-                    Text("User's books page button")
-                }
-                HStack{
-                    Text("Clubs search page")
-                }
-                HStack{
-                    Text("Log out ")
-                }
-            }.padding()
-        }
+        Home()
     }
 }
 
