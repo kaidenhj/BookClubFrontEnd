@@ -11,7 +11,7 @@ struct MyClubs: View {
     var body: some View {
         NavigationView{
             List{
-                ForEach( , content: <#T##(Identifiable) -> AccessibilityRotorContent#>)
+//                ForEach( , content: <#T##(Identifiable) -> AccessibilityRotorContent#>)
             }
         }
     }
