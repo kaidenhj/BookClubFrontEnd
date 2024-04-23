@@ -18,6 +18,11 @@
 		0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39D2BD738AA00D6CBAA /* UserProfile.swift */; };
 		0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39F2BD73B9100D6CBAA /* MyClubs.swift */; };
 		0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3A12BD73E9100D6CBAA /* Home.swift */; };
+		0677A3AE2BD75BE000D6CBAA /* ModelFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3AD2BD75BE000D6CBAA /* ModelFile.swift */; };
+		0677A3B12BD75C6300D6CBAA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3B02BD75C6300D6CBAA /* User.swift */; };
+		0677A3B32BD75DAF00D6CBAA /* Club.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3B22BD75DAF00D6CBAA /* Club.swift */; };
+		0677A3B52BD75FE200D6CBAA /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3B42BD75FE200D6CBAA /* Book.swift */; };
+		0677A3B72BD760F400D6CBAA /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3B62BD760F400D6CBAA /* Review.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +57,11 @@
 		0677A39D2BD738AA00D6CBAA /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		0677A39F2BD73B9100D6CBAA /* MyClubs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClubs.swift; sourceTree = "<group>"; };
 		0677A3A12BD73E9100D6CBAA /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		0677A3AD2BD75BE000D6CBAA /* ModelFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelFile.swift; sourceTree = "<group>"; };
+		0677A3B02BD75C6300D6CBAA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		0677A3B22BD75DAF00D6CBAA /* Club.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Club.swift; sourceTree = "<group>"; };
+		0677A3B42BD75FE200D6CBAA /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		0677A3B62BD760F400D6CBAA /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +112,7 @@
 		0677A36F2BD7301F00D6CBAA /* BookClubFrontEnd */ = {
 			isa = PBXGroup;
 			children = (
+				0677A3AF2BD75C4E00D6CBAA /* model */,
 				0677A39C2BD7369B00D6CBAA /* resources */,
 				0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */,
 				0677A3722BD7301F00D6CBAA /* ContentView.swift */,
@@ -145,6 +156,18 @@
 			children = (
 			);
 			path = resources;
+			sourceTree = "<group>";
+		};
+		0677A3AF2BD75C4E00D6CBAA /* model */ = {
+			isa = PBXGroup;
+			children = (
+				0677A3AD2BD75BE000D6CBAA /* ModelFile.swift */,
+				0677A3B02BD75C6300D6CBAA /* User.swift */,
+				0677A3B22BD75DAF00D6CBAA /* Club.swift */,
+				0677A3B42BD75FE200D6CBAA /* Book.swift */,
+				0677A3B62BD760F400D6CBAA /* Review.swift */,
+			);
+			path = model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,10 +301,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */,
+				0677A3B32BD75DAF00D6CBAA /* Club.swift in Sources */,
 				0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */,
 				0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */,
 				0677A3752BD7301F00D6CBAA /* Item.swift in Sources */,
+				0677A3B12BD75C6300D6CBAA /* User.swift in Sources */,
+				0677A3B72BD760F400D6CBAA /* Review.swift in Sources */,
 				0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */,
+				0677A3AE2BD75BE000D6CBAA /* ModelFile.swift in Sources */,
+				0677A3B52BD75FE200D6CBAA /* Book.swift in Sources */,
 				0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
