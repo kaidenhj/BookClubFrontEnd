@@ -1,0 +1,3474 @@
+[
+  {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [{
+  "id": 3,
+  "name": "club3",
+  "director": {"id": "3",
+  "name": "Matt",
+  "password": "pass3",
+  "books": [{
+            "kind": "books#volume",
+            "id": "F23AAgAAQBAJ",
+            "etag": "evDwLdqWn4U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/F23AAgAAQBAJ",
+            "volumeInfo": {
+                "title": "J.R.R. Tolkien",
+                "subtitle": "Author of the Century",
+                "authors": [
+                    "Tom Shippey"
+                ],
+                "publisher": "HMH",
+                "publishedDate": "2014-02-21",
+                "description": "The definitive Tolkien companion\u2014an indispensable guide to The Hobbit, The Lord of the Rings, and more, from the author of The Road to Middle-earth. This \u201chighly erudite celebration and exploration of Tolkien\u2019s works [is] enormous fun,\u201d declared the Houston Chronicle, and Tom Shippey, a prominent medievalist and scholar of fantasy, \u201cdeepens your understanding\u201d without \u201cmaking you forget your initial, purely instinctive response to Middle-earth and hobbits.\u201d In a clear and accessible style, Shippey offers a new approach to Tolkien, to fantasy, and to the importance of language in literature. He breaks down The Lord of the Rings as a linguistic feast for the senses and as a response to the human instinct for myth. Elsewhere, he examines The Hobbit\u2019s counterintuitive relationship to the heroic world of Middle-earth; demonstrates the significance of The Silmarillion to Tolkien\u2019s canon; and takes an illuminating look at lesser-known works in connection with Tolkien\u2019s life. Furthermore, he ties all these strands together in a continuing tradition that traces its roots back through Grimms\u2019 Fairy Tales to Beowulf. \u201cShippey\u2019s commentary is the best so far in elucidating Tolkien\u2019s lovely myth,\u201d wrote Harper\u2019s Magazine. J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ever written.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780547524436"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0547524439"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 389,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.14.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=F23AAgAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&rdid=book-F23AAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-epub.acsm?id=F23AAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-pdf.acsm?id=F23AAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=F23AAgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ..."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 3,
+  "user":  {"id": "3",
+  "name": "Matt",
+  "password": "pass3",
+  "books": [{
+            "kind": "books#volume",
+            "id": "F23AAgAAQBAJ",
+            "etag": "evDwLdqWn4U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/F23AAgAAQBAJ",
+            "volumeInfo": {
+                "title": "J.R.R. Tolkien",
+                "subtitle": "Author of the Century",
+                "authors": [
+                    "Tom Shippey"
+                ],
+                "publisher": "HMH",
+                "publishedDate": "2014-02-21",
+                "description": "The definitive Tolkien companion\u2014an indispensable guide to The Hobbit, The Lord of the Rings, and more, from the author of The Road to Middle-earth. This \u201chighly erudite celebration and exploration of Tolkien\u2019s works [is] enormous fun,\u201d declared the Houston Chronicle, and Tom Shippey, a prominent medievalist and scholar of fantasy, \u201cdeepens your understanding\u201d without \u201cmaking you forget your initial, purely instinctive response to Middle-earth and hobbits.\u201d In a clear and accessible style, Shippey offers a new approach to Tolkien, to fantasy, and to the importance of language in literature. He breaks down The Lord of the Rings as a linguistic feast for the senses and as a response to the human instinct for myth. Elsewhere, he examines The Hobbit\u2019s counterintuitive relationship to the heroic world of Middle-earth; demonstrates the significance of The Silmarillion to Tolkien\u2019s canon; and takes an illuminating look at lesser-known works in connection with Tolkien\u2019s life. Furthermore, he ties all these strands together in a continuing tradition that traces its roots back through Grimms\u2019 Fairy Tales to Beowulf. \u201cShippey\u2019s commentary is the best so far in elucidating Tolkien\u2019s lovely myth,\u201d wrote Harper\u2019s Magazine. J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ever written.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780547524436"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0547524439"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 389,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.14.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=F23AAgAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&rdid=book-F23AAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-epub.acsm?id=F23AAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-pdf.acsm?id=F23AAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=F23AAgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ..."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": "ArrayList"},
+  "book": {
+            "kind": "books#volume",
+            "id": "F23AAgAAQBAJ",
+            "etag": "evDwLdqWn4U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/F23AAgAAQBAJ",
+            "volumeInfo": {
+                "title": "J.R.R. Tolkien",
+                "subtitle": "Author of the Century",
+                "authors": [
+                    "Tom Shippey"
+                ],
+                "publisher": "HMH",
+                "publishedDate": "2014-02-21",
+                "description": "The definitive Tolkien companion\u2014an indispensable guide to The Hobbit, The Lord of the Rings, and more, from the author of The Road to Middle-earth. This \u201chighly erudite celebration and exploration of Tolkien\u2019s works [is] enormous fun,\u201d declared the Houston Chronicle, and Tom Shippey, a prominent medievalist and scholar of fantasy, \u201cdeepens your understanding\u201d without \u201cmaking you forget your initial, purely instinctive response to Middle-earth and hobbits.\u201d In a clear and accessible style, Shippey offers a new approach to Tolkien, to fantasy, and to the importance of language in literature. He breaks down The Lord of the Rings as a linguistic feast for the senses and as a response to the human instinct for myth. Elsewhere, he examines The Hobbit\u2019s counterintuitive relationship to the heroic world of Middle-earth; demonstrates the significance of The Silmarillion to Tolkien\u2019s canon; and takes an illuminating look at lesser-known works in connection with Tolkien\u2019s life. Furthermore, he ties all these strands together in a continuing tradition that traces its roots back through Grimms\u2019 Fairy Tales to Beowulf. \u201cShippey\u2019s commentary is the best so far in elucidating Tolkien\u2019s lovely myth,\u201d wrote Harper\u2019s Magazine. J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ever written.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780547524436"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0547524439"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 389,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.14.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=F23AAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=F23AAgAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=F23AAgAAQBAJ&rdid=book-F23AAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-epub.acsm?id=F23AAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/J_R_R_Tolkien-sample-pdf.acsm?id=F23AAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=F23AAgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "J.R.R. Tolkien: Author of the Century is \u201ca triumph\u201d (Chicago Sun-Times) that not only gives readers a deeper understanding of Tolkien and his work, but also serves as an entertaining introduction to some of the most influential novels ..."
+            }
+        },
+  "date": "2019-11-23",
+  "rate": 3,
+  "content": "Fine book"
+}]},
+  "monthlyHost":  {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 4,
+  "user":  {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": "ArrayList"},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },
+  "date": "2019-12-31",
+  "rate": 1,
+  "content": "Bad book"
+}]},
+  "members": [ {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 4,
+  "user":  {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": "ArrayList"},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },
+  "date": "2019-12-31",
+  "rate": 1,
+  "content": "Bad book"
+}]},{"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 0,
+  "user":  {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": []},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+},
+  "date": "2019-02-15",
+  "rate": 4,
+  "content": "Good book"
+}]}],
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "memberRequests": [],
+  "meetingLoacation": "321 Pine Rd, Greenville, SC, 67890"
+
+}, {
+  "id": 4,
+  "name": "club4",
+  "director": {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 4,
+  "user":  {"id": "4",
+  "name": "Doug",
+  "password": "pass4",
+  "books": [{
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },{
+            "kind": "books#volume",
+            "id": "ZJk3EAAAQBAJ",
+            "etag": "guvYBfR8rP8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJk3EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Oil and Dust",
+                "authors": [
+                    "Jami Fairleigh"
+                ],
+                "publisher": "Kitsune Publishing",
+                "publishedDate": "2021-09-01",
+                "description": "When all has been lost, we find ourselves\u2026 Out of the ashes of destruction, a new world has arisen. The plagues of the past\u2014the worship of greed and pursuit of power\u2014are gone. Now, the communities that remain in this post-apocalyptic world focus on creating connections, on forging futures filled with family and love. And all with the help of hard work, hope\u2026 and a little bit of magic. Artist Matthew Sugiyama knows this well. Traveling the countryside in search of the family he lost as a child, he trades his art for supplies\u2014and uses his honed magic to re-draw the boundaries of reality, to fashion a world that is better for those he meets. Following glimpses of visions half-seen, Matthew\u2014and the friends he encounters along the way\u2014will travel a path from light to darkness and back again. A road where things lost in the past can only be found in the love of the present, and the hope for the future. And he will travel this path wherever it leads. From joy to sorrow, from tears to laughter. Because Matthew is the Elemental Artist, and he knows that though dangers arise, humanity will always triumph\u2026 in a world he has painted in shades of Oil and Dust. Author Jami Farleigh invites you to meet a rich tapestry of characters, and to travel through a world that blends fantasy, laughter, coming of age, and evocative literary stylings to create a perfect escape. Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope. Click \u201cBuy Now,\u201d to curl up with your copy of Oil and Dust today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781955428002"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "195542800X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 509,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZJk3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ZJk3EAAAQBAJ&printsec=frontcover&dq=The+inauthor&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 4.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZJk3EAAAQBAJ&rdid=book-ZJk3EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZJk3EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Fans of The Goblin Emperor, The Long Way to a Small, Angry Planet, The Language of Flowers, and Quarter Share will delight in this tale of humor, humanity, and the power of hope."
+            }
+        }],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": "ArrayList"},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-epub.acsm?id=qCDyT1q6OjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/I_Am_the_Messenger-sample-pdf.acsm?id=qCDyT1q6OjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qCDyT1q6OjIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA."
+            }
+        },
+  "date": "2019-12-31",
+  "rate": 1,
+  "content": "Bad book"
+}]},
+  "monthlyHost":  {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 0,
+  "user":  {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": []},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+},
+  "date": "2019-02-15",
+  "rate": 4,
+  "content": "Good book"
+}]},
+  "members": [ {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": [{
+  "id": 0,
+  "user":  {"id": "0",
+  "name": "Cole",
+  "password": "pass0",
+  "books": [{
+            "kind": "books#volume",
+            "id": "ACllAAAAMAAJ",
+            "etag": "c2RH/p0nnD4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ACllAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Proust at the Majestic",
+                "subtitle": "The Last Days of the Author Whose Book Changed Paris",
+                "authors": [
+                    "Richard Davenport-Hines"
+                ],
+                "publisher": "Bloomsbury Publishing USA",
+                "publishedDate": "2006-06",
+                "description": "Presents a study of the final days of the seminal author and discusses his upbringing, themes in his works, his rise as a famous writer, and the final months before his death.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015064905527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ACllAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=ACllAAAAMAAJ&q=The+inauthor&dq=The+inauthor&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=ACllAAAAMAAJ&dq=The+inauthor&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proust_at_the_Majestic.html?hl=&id=ACllAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ACllAAAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The book&#39;s eccentric, ailing author had become a celebrity to French and English-language readers alike, and his presence at the dinner was all the more unusual since Proust rarely went out. In fact, he would be dead only six months later."
+            }
+        }, {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+}],
+  "clubs": [],
+  "ownedClubs": [],
+  "isMonthlyHost": "Boolean",
+  "reviews": []},
+  "book": {
+            "kind": "books#volume",
+            "id": "qCDyT1q6OjIC",
+            "etag": "AYUO4IadbT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDyT1q6OjIC",
+            "volumeInfo": {
+                "title": "I Am the Messenger",
+                "authors": [
+                    "Markus Zusak"
+                ],
+                "publisher": "Knopf Books for Young Readers",
+                "publishedDate": "2007-12-18",
+                "description": "DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF AND AN UNFORGETTABLE AND SWEEPING FAMILY SAGA. From the author of the extraordinary #1 New York Times bestseller The Book Thief, I Am the Messenger is an acclaimed novel filled with laughter, fists, and love. A MICHAEL L. PRINTZ HONOR BOOK FIVE STARRED REVIEWS Ed Kennedy is an underage cabdriver without much of a future. He's pathetic at playing cards, hopelessly in love with his best friend, Audrey, and utterly devoted to his coffee-drinking dog, the Doorman. His life is one of peaceful routine and incompetence until he inadvertently stops a bank robbery. That's when the first ace arrives in the mail. That's when Ed becomes the messenger. Chosen to care, he makes his way through town helping and hurting (when necessary) until only one question remains: Who's behind Ed's mission?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307433480"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "030743348X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 370,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 34,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.16.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qCDyT1q6OjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=qCDyT1q6OjIC&printsec=frontcover&dq=The+inauthor&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=qCDyT1q6OjIC&rdid=book-qCDyT1q6OjIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            }
+},
+  "date": "2019-02-15",
+  "rate": 4,
+  "content": "Good book"
+}]}]
