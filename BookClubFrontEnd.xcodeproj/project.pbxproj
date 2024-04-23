@@ -28,6 +28,8 @@
 		0677A3C02BD7620700D6CBAA /* reviewTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0677A3BA2BD7620700D6CBAA /* reviewTestData.json */; };
 		0677A3C12BD7620700D6CBAA /* SingleUserTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0677A3BB2BD7620700D6CBAA /* SingleUserTestData.json */; };
 		0677A3C22BD7620700D6CBAA /* userTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0677A3BC2BD7620700D6CBAA /* userTestData.json */; };
+		0677A3C62BD7F57500D6CBAA /* ClubRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3C52BD7F57500D6CBAA /* ClubRow.swift */; };
+		0677A3CB2BD7F90600D6CBAA /* BookIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +74,8 @@
 		0677A3BA2BD7620700D6CBAA /* reviewTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = reviewTestData.json; sourceTree = "<group>"; };
 		0677A3BB2BD7620700D6CBAA /* SingleUserTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SingleUserTestData.json; sourceTree = "<group>"; };
 		0677A3BC2BD7620700D6CBAA /* userTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = userTestData.json; sourceTree = "<group>"; };
+		0677A3C52BD7F57500D6CBAA /* ClubRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClubRow.swift; sourceTree = "<group>"; };
+		0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookIcon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,16 +126,13 @@
 		0677A36F2BD7301F00D6CBAA /* BookClubFrontEnd */ = {
 			isa = PBXGroup;
 			children = (
+				0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */,
+				0677A3C32BD7F50400D6CBAA /* view */,
 				0677A3BD2BD7620700D6CBAA /* resources */,
 				0677A3AF2BD75C4E00D6CBAA /* model */,
-				0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */,
-				0677A3722BD7301F00D6CBAA /* ContentView.swift */,
 				0677A3742BD7301F00D6CBAA /* Item.swift */,
 				0677A3762BD7302200D6CBAA /* Assets.xcassets */,
 				0677A3782BD7302200D6CBAA /* Preview Content */,
-				0677A39D2BD738AA00D6CBAA /* UserProfile.swift */,
-				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
-				0677A3A12BD73E9100D6CBAA /* Home.swift */,
 			);
 			path = BookClubFrontEnd;
 			sourceTree = "<group>";
@@ -183,6 +184,35 @@
 				0677A3BC2BD7620700D6CBAA /* userTestData.json */,
 			);
 			path = resources;
+			sourceTree = "<group>";
+		};
+		0677A3C32BD7F50400D6CBAA /* view */ = {
+			isa = PBXGroup;
+			children = (
+				0677A3722BD7301F00D6CBAA /* ContentView.swift */,
+				0677A39D2BD738AA00D6CBAA /* UserProfile.swift */,
+				0677A3A12BD73E9100D6CBAA /* Home.swift */,
+				0677A3C42BD7F53500D6CBAA /* clubs */,
+				0677A3C72BD7F84400D6CBAA /* helper */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		0677A3C42BD7F53500D6CBAA /* clubs */ = {
+			isa = PBXGroup;
+			children = (
+				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
+				0677A3C52BD7F57500D6CBAA /* ClubRow.swift */,
+			);
+			path = clubs;
+			sourceTree = "<group>";
+		};
+		0677A3C72BD7F84400D6CBAA /* helper */ = {
+			isa = PBXGroup;
+			children = (
+				0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */,
+			);
+			path = helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -328,8 +358,10 @@
 				0677A3B12BD75C6300D6CBAA /* User.swift in Sources */,
 				0677A3B72BD760F400D6CBAA /* Review.swift in Sources */,
 				0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */,
+				0677A3CB2BD7F90600D6CBAA /* BookIcon.swift in Sources */,
 				0677A3AE2BD75BE000D6CBAA /* ModelFile.swift in Sources */,
 				0677A3B52BD75FE200D6CBAA /* Book.swift in Sources */,
+				0677A3C62BD7F57500D6CBAA /* ClubRow.swift in Sources */,
 				0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

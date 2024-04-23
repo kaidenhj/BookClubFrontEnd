@@ -8,11 +8,18 @@
 import SwiftUI
 
 struct BookIcon: View {
+    var image : Image
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        image
+            .clipShape(Circle())
+            .overlay{
+                Circle().stroke(.white, lineWidth: 4)}
     }
+        .shadow(radius: 7)
 }
 
 #Preview {
-    BookIcon()
+    BookIcon(image: Image("book"))
 }
