@@ -15,6 +15,8 @@
 		0677A3842BD7302200D6CBAA /* BookClubFrontEndTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3832BD7302200D6CBAA /* BookClubFrontEndTests.swift */; };
 		0677A38E2BD7302200D6CBAA /* BookClubFrontEndUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A38D2BD7302200D6CBAA /* BookClubFrontEndUITests.swift */; };
 		0677A3902BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A38F2BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift */; };
+		0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39D2BD738AA00D6CBAA /* UserProfile.swift */; };
+		0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A39F2BD73B9100D6CBAA /* MyClubs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +48,8 @@
 		0677A3892BD7302200D6CBAA /* BookClubFrontEndUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookClubFrontEndUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0677A38D2BD7302200D6CBAA /* BookClubFrontEndUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndUITests.swift; sourceTree = "<group>"; };
 		0677A38F2BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0677A39D2BD738AA00D6CBAA /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		0677A39F2BD73B9100D6CBAA /* MyClubs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClubs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,11 +100,14 @@
 		0677A36F2BD7301F00D6CBAA /* BookClubFrontEnd */ = {
 			isa = PBXGroup;
 			children = (
+				0677A39C2BD7369B00D6CBAA /* resources */,
 				0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */,
 				0677A3722BD7301F00D6CBAA /* ContentView.swift */,
 				0677A3742BD7301F00D6CBAA /* Item.swift */,
 				0677A3762BD7302200D6CBAA /* Assets.xcassets */,
 				0677A3782BD7302200D6CBAA /* Preview Content */,
+				0677A39D2BD738AA00D6CBAA /* UserProfile.swift */,
+				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
 			);
 			path = BookClubFrontEnd;
 			sourceTree = "<group>";
@@ -128,6 +135,13 @@
 				0677A38F2BD7302200D6CBAA /* BookClubFrontEndUITestsLaunchTests.swift */,
 			);
 			path = BookClubFrontEndUITests;
+			sourceTree = "<group>";
+		};
+		0677A39C2BD7369B00D6CBAA /* resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,6 +274,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */,
+				0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */,
 				0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */,
 				0677A3752BD7301F00D6CBAA /* Item.swift in Sources */,
 				0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */,
