@@ -14,6 +14,7 @@ struct UserProfile: View {
         VStack{
             HStack{
                 Text("Edit Profile")
+                    .font(.title)
             }
             HStack{
                 Text("Name: \(user.name)")
@@ -26,12 +27,8 @@ struct UserProfile: View {
     }
 
 #Preview {
-    UserProfile(user : ModelData().users[0])
-    
-    
-    
-//    Group {
-//        UserProfile(user : ModelData().users[0])
-//        UserProfile(user : ModelData().users[1])
-//    }
+    Group {
+        UserProfile(user : ModelData().users[0])
+        UserProfile(user : ModelData().users[1])
+    }
 }
