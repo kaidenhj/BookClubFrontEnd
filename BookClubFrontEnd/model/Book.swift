@@ -14,5 +14,5 @@ struct Book: Hashable, Codable, Identifiable{
     var rate : Int
     var release : Data
     var reviews : [Review]
-    var discription : String
+    var description : String
 }
