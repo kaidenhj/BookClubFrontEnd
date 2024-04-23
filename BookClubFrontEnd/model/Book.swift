@@ -13,6 +13,6 @@ struct Book: Hashable, Codable, Identifiable{
     var author : String
     var rate : Int
     var release : Data
-    var reviews : [Reviews]
+    var reviews : [Review]
     var discription : String
 }

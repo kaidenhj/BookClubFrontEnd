@@ -11,7 +11,7 @@ struct MyClubs: View {
     var body: some View {
         NavigationView{
             List{
-                ForEach(<#T##data: RandomAccessCollection##RandomAccessCollection#>, content: <#T##(Identifiable) -> AccessibilityRotorContent#>)
+                ForEach( , content: <#T##(Identifiable) -> AccessibilityRotorContent#>)
             }
         }
     }

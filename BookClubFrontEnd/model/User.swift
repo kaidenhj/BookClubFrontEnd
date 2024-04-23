@@ -15,6 +15,6 @@ struct User: Hashable, Codable, Identifiable{
     var password : String
     var books : [Book]
     var clubs : [Club]
-    var ownedClubs : List [Club]
-    var reviews : List [Review]
+    var ownedClubs : [Club]
+    var reviews : [Review]
 }
