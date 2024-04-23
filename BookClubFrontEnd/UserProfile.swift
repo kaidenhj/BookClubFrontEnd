@@ -8,18 +8,30 @@
 import SwiftUI
 
 struct UserProfile: View {
+    var user : User
+    
     var body: some View {
         VStack{
-                HStack{
-                    Text("First Name: ")
-                }
             HStack{
-                Text("Last Name: ")
+                Text("Edit Profile")
+            }
+            HStack{
+                Text("Name: \(user.name)")
+            }
+            HStack{
+                Text("Password: \(user.password)")
             }
             }.padding()
         }
     }
 
 #Preview {
-    UserProfile()
+    UserProfile(user : ModelData().users[0])
+    
+    
+    
+//    Group {
+//        UserProfile(user : ModelData().users[0])
+//        UserProfile(user : ModelData().users[1])
+//    }
 }
