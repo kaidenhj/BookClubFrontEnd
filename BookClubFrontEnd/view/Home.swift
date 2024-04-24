@@ -16,7 +16,7 @@ struct Home: View {
         VStack{
                 HStack{
                     NavigationLink{
-                        UserProfile()
+                        //UserProfile()
                     } label:{
                         Text("User")
                     }

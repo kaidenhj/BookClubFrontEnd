@@ -17,6 +17,6 @@ struct ClubRow: View {
     }
 }
 
-#Preview {
-    ClubRow(club : ModelData().club[0])
-}
+//#Preview {
+//    ClubRow(club : ModelData().club[0])
+//}

@@ -8,11 +8,11 @@
 import Foundation
 
 struct Book: Hashable, Codable, Identifiable{
-    var id : Int
-    var name : String
-    var author : String
-    var rate : Int
-    var release : Data
-    var reviews : [Review]
-    var discription : String
+    var id : String
+    var title : String
+    var authors : [String]
+    //var rate : Int
+    var publishedDate : String
+    //var reviews : [Review]
+    var description : String
 }

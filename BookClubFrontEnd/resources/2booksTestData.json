@@ -1,0 +1,30 @@
+{
+     "id": "UjG8qXVRSSQC",
+     "volumeInfo": {
+       "title": "Google Power Search",
+       "authors": [
+         "Stephan Spencer"
+       ],
+       "publishedDate": "2011-07-23",
+       "description": "Behind Google's deceptively simple interface is immense power for both market and competitive research—if you know how to use it well. Sure, basic searches are easy, but complex searches require specialized skills. This concise book takes you through the full range of Google's powerful search-refinement features, so you can quickly find the specific information you need. Learn techniques ranging from simple Boolean logic to URL parameters and other advanced tools, and see how they're applied to real-world market research examples. Incorporate advanced search operators such as filetype:, intitle:, daterange:, and others into your queries Use Google filtering tools, including Search Within Results, Similar Pages, and SafeSearch, among others Explore the breadth of Google through auxiliary search services like Google News, Google Books, Google Blog Search, and Google Scholar Acquire advanced Google skills that result in more effective search engine optimization (SEO)",
+       "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=UjG8qXVRSSQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+       }
+     }
+   },
+   {
+     "id": "pscmDwAAQBAJ",
+     "volumeInfo": {
+       "title": "Key Terms and Concepts for Investigation",
+       "authors": [
+         "John J. Fay"
+       ],
+       "publishedDate": "2017-05-25",
+       "description": "Key Terms and Concepts for Investigation provides students and practitioners with a compilation of concise, accurate articles on major topics pertaining to criminal, private, and military investigations. Each entry in this reference features a definition and then describes its function in investigation, including best practices and job characteristics. From financial crimes, digital forensics, and crime scene investigation to fraud, DNA, and workplace violence, this compilation helps students master investigation and offers seasoned investigators a resource to further their knowledge of recent developments in the field.",
+       "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=pscmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+       }
+     }
+   }
+ ]
+}
