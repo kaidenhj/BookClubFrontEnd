@@ -28,7 +28,7 @@ struct UserProfile: View {
 
 #Preview {
     Group {
-        UserProfile(user : ModelData().users[0])
-        UserProfile(user : ModelData().users[1])
+        //UserProfile(user : ModelData().users[0])
+        //UserProfile(user : ModelData().users[1])
     }
 }
