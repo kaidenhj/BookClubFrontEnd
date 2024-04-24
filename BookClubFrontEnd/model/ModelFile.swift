@@ -7,8 +7,6 @@
 
 import Foundation
 
-import Foundation
-
 @Observable
 class ModelData {
     //var users: [User] = load("userTestData.json")
@@ -32,7 +30,7 @@ func load<T: Decodable>(_ filename: String) -> T {
     } catch {
         fatalError("Couldn't load \(filename) from main bundle:\n\(error)")
     }
-
+    
 
     do {
         let decoder = JSONDecoder()
