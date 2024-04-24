@@ -1,30 +1,32 @@
 {
-     "id": "UjG8qXVRSSQC",
-     "volumeInfo": {
-       "title": "Google Power Search",
-       "authors": [
-         "Stephan Spencer"
-       ],
-       "publishedDate": "2011-07-23",
-       "description": "Behind Google's deceptively simple interface is immense power for both market and competitive research—if you know how to use it well. Sure, basic searches are easy, but complex searches require specialized skills. This concise book takes you through the full range of Google's powerful search-refinement features, so you can quickly find the specific information you need. Learn techniques ranging from simple Boolean logic to URL parameters and other advanced tools, and see how they're applied to real-world market research examples. Incorporate advanced search operators such as filetype:, intitle:, daterange:, and others into your queries Use Google filtering tools, including Search Within Results, Similar Pages, and SafeSearch, among others Explore the breadth of Google through auxiliary search services like Google News, Google Books, Google Blog Search, and Google Scholar Acquire advanced Google skills that result in more effective search engine optimization (SEO)",
-       "imageLinks": {
-         "smallThumbnail": "http://books.google.com/books/content?id=UjG8qXVRSSQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
-       }
-     }
-   },
-   {
-     "id": "pscmDwAAQBAJ",
-     "volumeInfo": {
-       "title": "Key Terms and Concepts for Investigation",
-       "authors": [
-         "John J. Fay"
-       ],
-       "publishedDate": "2017-05-25",
-       "description": "Key Terms and Concepts for Investigation provides students and practitioners with a compilation of concise, accurate articles on major topics pertaining to criminal, private, and military investigations. Each entry in this reference features a definition and then describes its function in investigation, including best practices and job characteristics. From financial crimes, digital forensics, and crime scene investigation to fraud, DNA, and workplace violence, this compilation helps students master investigation and offers seasoned investigators a resource to further their knowledge of recent developments in the field.",
-       "imageLinks": {
-         "smallThumbnail": "http://books.google.com/books/content?id=pscmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
-       }
-     }
-   }
- ]
+  "items": [
+    {
+      "id": "mFT_CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Search Terms: Alpha",
+        "authors": [
+          "Travis Hill"
+        ],
+        "description": "College sophomore Tyler Gallagher loves computers, video games, and Thanksgiving Break. He's timed the arrival of his computer components with the holiday vacation from school to blast aliens and enemy soldiers alike on his brand new, high-end gaming computer. When the parts arrive, it soon becomes apparent that they aren't what he ordered from TechTerritory. Thinking he's the butt of a practical joke, Tyler plays along, and builds the computer with the obviously fake components. His annoyance turns to shock when the computer powers on. His shock turns to a mix of disbelief and wonder when he learns the strange \"quantum\" computer can pull web pages from the near future. Disbelief and wonder soon become fear and uncertainty when he discovers the future might not be so bright. \"Search Terms: Alpha\" is the first half of a new time travel thriller. 52,000 word novel Adult themes / language / mild sexual content",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mFT_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        }
+      }
+    },
+    {
+      "id": "frL0EpijeEMC",
+      "volumeInfo": {
+        "title": "Web Search: Public Searching of the Web",
+        "authors": [
+          "Amanda Spink",
+          "Bernard J. Jansen"
+        ],
+        "publishedDate": "2006-02-21",
+        "description": "This book brings together results from the Web search studies we conducted from 1997 through 2004. The aim of our studies has been twofold: to examine how the public at large searches the Web and to highlight trends in public Web searching. The eight-year period from 1997 to 2004 saw the beginnings and maturity of public Web searching. Commercial Web search engines have come and gone, or endured, through the fall of the dot.com companies. We saw the rise and, in some cases, the demise of several high profile, publicly available Web search engines. The study of the Web search is an exciting and important area of interdisciplinary research. Our book provides a valuable insight into the growth and development of human interaction with Web search engines. In this book, our focus is on the human aspect of the interaction between user and Web search engine. We do not investigate the Web search engines themselves or their constantly changing interfaces, algorithms and features. We focus on exploring the cognitive and user aspects of public Web searching in the aggregate. We use a variety of quantitative and qualitative methods within the overall methodology known as transaction log analysis.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=frL0EpijeEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        }
+      }
+    }
+  ]
 }
