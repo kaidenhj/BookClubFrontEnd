@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 
 
-struct User: Hashable, Codable, Identifiable{
+struct User: Codable {
     var id : Int
     var name : String
     var password : String

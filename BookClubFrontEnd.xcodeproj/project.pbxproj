@@ -34,7 +34,7 @@
 		8118BA5C2BD86BEA0079C7E4 /* ReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5B2BD86BEA0079C7E4 /* ReviewView.swift */; };
 		8118BA5E2BD86BF50079C7E4 /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5D2BD86BF50079C7E4 /* Reviews.swift */; };
 		8118BA602BD86C3F0079C7E4 /* WriteReview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5F2BD86C3F0079C7E4 /* WriteReview.swift */; };
-		8118BA622BD871210079C7E4 /* 2booksTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8118BA612BD871210079C7E4 /* 2booksTestData.json */; };
+		8118BA622BD871210079C7E4 /* oneBookTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8118BA612BD871210079C7E4 /* oneBookTestData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,7 +85,7 @@
 		8118BA5B2BD86BEA0079C7E4 /* ReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
 		8118BA5D2BD86BF50079C7E4 /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
 		8118BA5F2BD86C3F0079C7E4 /* WriteReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteReview.swift; sourceTree = "<group>"; };
-		8118BA612BD871210079C7E4 /* 2booksTestData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 2booksTestData.json; sourceTree = "<group>"; };
+		8118BA612BD871210079C7E4 /* oneBookTestData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = oneBookTestData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,7 +192,7 @@
 				0677A3BA2BD7620700D6CBAA /* reviewTestData.json */,
 				0677A3BB2BD7620700D6CBAA /* SingleUserTestData.json */,
 				0677A3BC2BD7620700D6CBAA /* userTestData.json */,
-				8118BA612BD871210079C7E4 /* 2booksTestData.json */,
+				8118BA612BD871210079C7E4 /* oneBookTestData.json */,
 			);
 			path = resources;
 			sourceTree = "<group>";
@@ -347,7 +347,7 @@
 				0677A3C12BD7620700D6CBAA /* SingleUserTestData.json in Resources */,
 				0677A37A2BD7302200D6CBAA /* Preview Assets.xcassets in Resources */,
 				0677A3C02BD7620700D6CBAA /* reviewTestData.json in Resources */,
-				8118BA622BD871210079C7E4 /* 2booksTestData.json in Resources */,
+				8118BA622BD871210079C7E4 /* oneBookTestData.json in Resources */,
 				0677A3C22BD7620700D6CBAA /* userTestData.json in Resources */,
 				0677A3772BD7302200D6CBAA /* Assets.xcassets in Resources */,
 			);
