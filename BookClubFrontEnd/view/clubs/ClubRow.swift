@@ -12,11 +12,11 @@ struct ClubRow: View {
     
     var body: some View {
         HStack{
-            
+            Text(club.name)
         }
     }
 }
 
-//#Preview {
-//    ClubRow(club : ModelData().club[0])
-//}
+#Preview {
+    ClubRow(club : ModelData().oneClubTest)
+}

@@ -25,7 +25,7 @@ struct ReviewView: View {
                 }
             }
             HStack {
-                Text("Review Author: \(review.user.name)")
+                Text("Review Author: \(review.user)")
             }
             HStack {
                 // Image goes here
@@ -37,6 +37,6 @@ struct ReviewView: View {
     }
 }
 
-//#Preview {
-//    ReviewView()
-//}
+#Preview {
+    ReviewView(review: ModelData().oneReviewTest)
+}
