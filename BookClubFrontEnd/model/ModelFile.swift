@@ -11,8 +11,9 @@ import Foundation
 
 @Observable
 class ModelData {
-    //var users: [User] = load("userTestData.json")
-    //var club: [Club] = load("clubTestData.json")
+    var reviews : Review = load("oneReviewTestData.json")
+//    var users: User = load("oneUserTestData.json")
+//    var club: Club = load("oneClubTestData.json")
     var oneBookTest: Book = load("oneBookTestData.json")
 }
 

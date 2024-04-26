@@ -24,29 +24,3 @@ struct Book: Codable {
 
 
 
-
-// STUFF BEFORE CHANGES VVVVV
-//struct Book: Codable{
-//    
-//    let id: String
-//    let title: String
-//    let authors: [String]
-//    let description: String
-//    let smallThumbnail: String
-//    
-//    enum CodingKeys: Codable {
-//        case id
-//        case volumeInfo
-//    }
-//
-//    enum VolumeInfoKeys: Codable {
-//        case title
-//        case authors
-//        case description
-//        case imageLinks
-//    }
-//
-//    enum ImageLinksKeys: Codable {
-//        case smallThumbnail
-//    }
-//}

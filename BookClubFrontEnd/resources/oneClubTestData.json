@@ -141,7 +141,7 @@
             }
         ]
     },
-    "members": {
+    "members": [{
         "id": "0",
         "name": "Cole Prochilo",
         "password": "Password",
@@ -210,7 +210,7 @@
                 "content": "I am a big long string, this book was great!"
             }
         ]
-    },
+    }],
     "books": [
         {
           "id": "mFT_CgAAQBAJ",

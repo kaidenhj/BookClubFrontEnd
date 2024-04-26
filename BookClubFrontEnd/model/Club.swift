@@ -8,12 +8,11 @@
 import Foundation
 
 struct Club : Codable{
-    var id : Int
+    var id : String
     var name : String
     var director : User
     var monthlyHost : User
     var members : [User]
     var books : [Book]
-    var memberRequest : [User]
     var meetingLocation : String
 }
