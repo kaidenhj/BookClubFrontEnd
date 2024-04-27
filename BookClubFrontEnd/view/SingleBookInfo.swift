@@ -11,44 +11,52 @@ struct SingleBookInfo: View {
     var book: Book
     
     var body: some View {
-        //Add navigation View like in home for links to work
-        VStack{
-            HStack{
-                Text(book.volumeInfo.title)
-                    .font(.title)
-            }
-            HStack {
-                VStack(alignment: .leading, spacing: 4) {
-                    ForEach(book.volumeInfo.authors, id: \.self) { author in
-                        Text(author)
+        NavigationView {
+            ScrollView {
+                VStack(spacing: 20) {
+                    Text(book.volumeInfo.title)
+                        .font(.system(size: 40))
+                    
+                    HStack {
+                        Text("Author(s): ")
+                        
+                        ForEach(book.volumeInfo.authors, id: \.self) { author in
+                            Text(author)
+                        }
                     }
+                    .font(.system(size: 25))
+                    .frame(maxWidth: .infinity, alignment: .top)
+                    
+                    Image("book")
+                        .resizable()
+                        .aspectRatio(contentMode: .fill)
+                        .frame(maxWidth: .infinity)
+                        .edgesIgnoringSafeArea(.all)
+                    
+                    NavigationLink(destination: ReviewView(review: ModelData().oneReviewTest)) {
+                        Text("Reviews")
+                    }
+                    .font(.system(size: 25))
+                    
+                    NavigationLink(destination: WriteReview()) {
+                        Text("Add Review")
+                    }
+                    .font(.system(size: 25))
+                    
+                    Text("Description: ")
+                        .fontWeight(.bold)
+                        + Text(book.volumeInfo.description)
                 }
+                .padding()
             }
-            HStack{
-                //image goes here
-            }
-            HStack{
-                NavigationLink{
-                    //Reviews()
-                } label:{
-                    Text("Reviews")
-                }
-            }
-            HStack{
-                NavigationLink{
-                    WriteReview()
-                } label:{
-                    Text("Add Review")
-                }
-            }
-            HStack{
-                Text(book.volumeInfo.description)
-            }
-            }.padding()
+            .navigationBarTitle("", displayMode: .inline)
         }
+    }
 }
 
-#Preview {
-    SingleBookInfo(book: ModelData().oneBookTest)
+struct SingleBookInfo_Previews: PreviewProvider {
+    static var previews: some View {
+        SingleBookInfo(book: ModelData().oneBookTest)
+    }
 }
 

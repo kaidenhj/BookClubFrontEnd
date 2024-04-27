@@ -16,16 +16,16 @@ struct Home: View {
         VStack{
                 HStack{
                     NavigationLink{
-                        //UserProfile()
+                        UserProfile(user: ModelData().oneUserTest)
                     } label:{
-                        Text("User")
+                        Text("My Profile")
                     }
                 }
                 HStack{
                     NavigationLink{
-                        MyClubs()
+                        ClubRow(club: ModelData().oneClubTest)
                     } label:{
-                        Text("User's clubs page button")
+                        Text("My Club")
                     }
                 }
                 HStack{
