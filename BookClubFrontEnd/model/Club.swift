@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Club : Codable{
+struct Club : Codable, Identifiable{
     let id : String
     let name : String
     let director : User

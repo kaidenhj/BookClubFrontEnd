@@ -8,8 +8,9 @@
 import SwiftUI
 
 struct MyClubs: View {
-    var club : Club
+    var clubs : [Club]
     var body: some View {
+        NavigationSplitView{
         VStack{
             HStack{
                 Text("My Clubs")
@@ -19,20 +20,36 @@ struct MyClubs: View {
             Image("clubPic")
                 .resizable()
                 .scaledToFit() .frame(maxWidth: .infinity, maxHeight: 200)
-            HStack{
-                NavigationView{
-                    NavigationLink{
+//            HStack{
+//                NavigationView{
+//                    NavigationLink{
+//                        ClubPage(club: club)
+//                    } label:{
+//                        ClubRow(club: club)
+//                    }
+//                }
+//            }
+        }
+        .padding()
+            List{
+                ForEach(clubs) { club in
+                    NavigationLink {
                         ClubPage(club: club)
-                    } label:{
+                    } label: {
                         ClubRow(club: club)
                     }
                 }
             }
+        } detail: {
+            Text("Select a landmark")
         }
-        .padding()
+        
+        
+        
     }
 }
 
 #Preview {
-    MyClubs(club: ModelData().oneClubTest)
+//    MyClubs(club: ModelData().oneClubTest)
+    MyClubs(clubs: ModelData().twoClubTest)
 }

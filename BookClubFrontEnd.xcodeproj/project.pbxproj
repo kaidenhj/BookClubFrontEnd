@@ -11,6 +11,7 @@
 		065C23632BDDC7A700045648 /* ClubIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23622BDDC7A700045648 /* ClubIcon.swift */; };
 		065C23652BDF072900045648 /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23642BDF072900045648 /* EditProfile.swift */; };
 		065C23672BDF08DC00045648 /* UserIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23662BDF08DC00045648 /* UserIcon.swift */; };
+		065C236D2BDF105000045648 /* twoClubTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 065C236C2BDF105000045648 /* twoClubTestData.json */; };
 		0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */; };
 		0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3722BD7301F00D6CBAA /* ContentView.swift */; };
 		0677A3752BD7301F00D6CBAA /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3742BD7301F00D6CBAA /* Item.swift */; };
@@ -61,6 +62,7 @@
 		065C23622BDDC7A700045648 /* ClubIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClubIcon.swift; sourceTree = "<group>"; };
 		065C23642BDF072900045648 /* EditProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
 		065C23662BDF08DC00045648 /* UserIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserIcon.swift; sourceTree = "<group>"; };
+		065C236C2BDF105000045648 /* twoClubTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = twoClubTestData.json; sourceTree = "<group>"; };
 		0677A36D2BD7301F00D6CBAA /* BookClubFrontEnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookClubFrontEnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndApp.swift; sourceTree = "<group>"; };
 		0677A3722BD7301F00D6CBAA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 				819F21DF2BDBED530097E6C4 /* oneUserTestData.json */,
 				819F21E12BDBEE650097E6C4 /* oneReviewTestData.json */,
 				819F21E32BDBEF520097E6C4 /* oneClubTestData.json */,
+				065C236C2BDF105000045648 /* twoClubTestData.json */,
 			);
 			path = resources;
 			sourceTree = "<group>";
@@ -353,6 +356,7 @@
 				819F21E02BDBED530097E6C4 /* oneUserTestData.json in Resources */,
 				819F21E22BDBEE650097E6C4 /* oneReviewTestData.json in Resources */,
 				819F21E42BDBEF520097E6C4 /* oneClubTestData.json in Resources */,
+				065C236D2BDF105000045648 /* twoClubTestData.json in Resources */,
 				0677A3772BD7302200D6CBAA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

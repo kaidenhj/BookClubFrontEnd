@@ -12,6 +12,9 @@ struct ClubRow: View {
     
     var body: some View {
         HStack{
+            Image("clubPic")
+                .resizable()
+                .scaledToFit() .frame(maxWidth: 70 , maxHeight: 70)
             Text(club.name)
             Spacer()
         }

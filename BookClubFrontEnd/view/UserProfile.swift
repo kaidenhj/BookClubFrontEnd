@@ -22,7 +22,7 @@ struct UserProfile: View {
                     Text("Edit Profile Info")
                         .font(.system(size: 25))
                 }
-                NavigationLink(destination: MyClubs(club: ModelData().oneClubTest)) {
+                NavigationLink(destination: MyClubs(clubs: ModelData().twoClubTest)) {
                     Text("My Clubs")
                         .font(.system(size: 25))
                 }

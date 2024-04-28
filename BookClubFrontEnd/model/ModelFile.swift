@@ -13,6 +13,7 @@ class ModelData {
     var oneReviewTest: Review = load("oneReviewTestData.json")
     var oneUserTest: User = load("oneUserTestData.json")
     var oneClubTest: Club = load("oneClubTestData.json")
+    var twoClubTest: [Club] = load("twoClubTestData.json")
 }
 
 
