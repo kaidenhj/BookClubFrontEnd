@@ -9,7 +9,13 @@ import SwiftUI
 
 struct WriteReview: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            HStack{
+                Text("Make Review")
+                    .font(.largeTitle)
+            }
+            Spacer()
+        }
     }
 }
 

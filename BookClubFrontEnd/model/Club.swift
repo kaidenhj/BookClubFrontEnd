@@ -30,7 +30,6 @@ struct Club : Codable{
                 }
             }
         }
-
         var clubs : [Club]?
         struct Club: Codable {
         }
@@ -50,3 +49,4 @@ struct Club : Codable{
     let books : [Book]
     let meetingLocation : String
 }
+

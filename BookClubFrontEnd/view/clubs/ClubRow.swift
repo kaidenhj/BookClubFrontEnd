@@ -13,7 +13,9 @@ struct ClubRow: View {
     var body: some View {
         HStack{
             Text(club.name)
+            Spacer()
         }
+        
     }
 }
 

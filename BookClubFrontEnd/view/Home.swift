@@ -14,30 +14,42 @@ struct Home: View {
     var body: some View {
         NavigationView{
         VStack{
+            HStack{
+            Text("Home")
+                .font(.largeTitle)
+                .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
+            }
+            Spacer()
                 HStack{
                     NavigationLink{
                         UserProfile(user: ModelData().oneUserTest)
                     } label:{
-                        Text("My Profile")
+                        Text("Profile")
+                            .font(.system(size: 25))
                     }
                 }
                 HStack{
                     NavigationLink{
                         ClubRow(club: ModelData().oneClubTest)
                     } label:{
-                        Text("My Club")
+                        Text("Clubs")
+                            .font(.system(size: 25))
                     }
                 }
                 HStack{
-                    Text("User's books page button")
+                    Text("Books")
+                        .font(.system(size: 25))
                 }
                 HStack{
                     Text("Clubs search page")
+                        .font(.system(size: 25))
                 }
                 HStack{
                     Text("Log out ")
+                        .font(.system(size: 25))
                 }
-            }.padding()
+            Spacer()
+            }
         }
     }
 }

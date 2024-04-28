@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		065C23612BDDC2B000045648 /* ClubPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23602BDDC2B000045648 /* ClubPage.swift */; };
+		065C23632BDDC7A700045648 /* ClubIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23622BDDC7A700045648 /* ClubIcon.swift */; };
+		065C23652BDF072900045648 /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23642BDF072900045648 /* EditProfile.swift */; };
+		065C23672BDF08DC00045648 /* UserIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23662BDF08DC00045648 /* UserIcon.swift */; };
 		0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */; };
 		0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3722BD7301F00D6CBAA /* ContentView.swift */; };
 		0677A3752BD7301F00D6CBAA /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3742BD7301F00D6CBAA /* Item.swift */; };
@@ -53,6 +57,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		065C23602BDDC2B000045648 /* ClubPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClubPage.swift; sourceTree = "<group>"; };
+		065C23622BDDC7A700045648 /* ClubIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClubIcon.swift; sourceTree = "<group>"; };
+		065C23642BDF072900045648 /* EditProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
+		065C23662BDF08DC00045648 /* UserIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserIcon.swift; sourceTree = "<group>"; };
 		0677A36D2BD7301F00D6CBAA /* BookClubFrontEnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookClubFrontEnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndApp.swift; sourceTree = "<group>"; };
 		0677A3722BD7301F00D6CBAA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +207,7 @@
 				0677A39D2BD738AA00D6CBAA /* UserProfile.swift */,
 				0677A3A12BD73E9100D6CBAA /* Home.swift */,
 				8118BA582BD86AD80079C7E4 /* SingleBookInfo.swift */,
+				065C23642BDF072900045648 /* EditProfile.swift */,
 				0677A3C42BD7F53500D6CBAA /* clubs */,
 				0677A3C72BD7F84400D6CBAA /* helper */,
 			);
@@ -210,6 +219,7 @@
 			children = (
 				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
 				0677A3C52BD7F57500D6CBAA /* ClubRow.swift */,
+				065C23602BDDC2B000045648 /* ClubPage.swift */,
 			);
 			path = clubs;
 			sourceTree = "<group>";
@@ -218,6 +228,8 @@
 			isa = PBXGroup;
 			children = (
 				0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */,
+				065C23622BDDC7A700045648 /* ClubIcon.swift */,
+				065C23662BDF08DC00045648 /* UserIcon.swift */,
 			);
 			path = helper;
 			sourceTree = "<group>";
@@ -367,8 +379,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0677A3A02BD73B9100D6CBAA /* MyClubs.swift in Sources */,
+				065C23672BDF08DC00045648 /* UserIcon.swift in Sources */,
 				0677A3B32BD75DAF00D6CBAA /* Club.swift in Sources */,
 				0677A39E2BD738AA00D6CBAA /* UserProfile.swift in Sources */,
+				065C23652BDF072900045648 /* EditProfile.swift in Sources */,
 				8118BA602BD86C3F0079C7E4 /* WriteReview.swift in Sources */,
 				0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */,
 				0677A3752BD7301F00D6CBAA /* Item.swift in Sources */,
@@ -376,6 +390,7 @@
 				0677A3B12BD75C6300D6CBAA /* User.swift in Sources */,
 				0677A3B72BD760F400D6CBAA /* Review.swift in Sources */,
 				8118BA5C2BD86BEA0079C7E4 /* ReviewView.swift in Sources */,
+				065C23612BDDC2B000045648 /* ClubPage.swift in Sources */,
 				0677A3A22BD73E9100D6CBAA /* Home.swift in Sources */,
 				8118BA5E2BD86BF50079C7E4 /* Reviews.swift in Sources */,
 				0677A3CB2BD7F90600D6CBAA /* BookIcon.swift in Sources */,
@@ -383,6 +398,7 @@
 				0677A3B52BD75FE200D6CBAA /* Book.swift in Sources */,
 				0677A3C62BD7F57500D6CBAA /* ClubRow.swift in Sources */,
 				0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */,
+				065C23632BDDC7A700045648 /* ClubIcon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

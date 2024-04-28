@@ -12,6 +12,10 @@ struct ReviewView: View {
     
     var body: some View {
         VStack {
+            Text("Review")
+                .font(.largeTitle)
+                .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
+            Spacer()
             HStack {
                 Text("\(review.book.volumeInfo.title) Review")
                     .font(.title)
@@ -31,8 +35,9 @@ struct ReviewView: View {
                 // Image goes here
             }
             HStack {
-                Text(review.content)
+                Text("Content: \(review.content)")
             }
+            Spacer()
         }.padding()
     }
 }

@@ -18,10 +18,11 @@ struct UserProfile: View {
                 
                 Spacer() // Pushes the name to the top
                 
-                Text("Edit Profile Info")
-                    .font(.system(size: 25))
-                
-                NavigationLink(destination: ClubRow(club: ModelData().oneClubTest)) {
+                NavigationLink(destination: EditProfile(user: ModelData().oneUserTest)){
+                    Text("Edit Profile Info")
+                        .font(.system(size: 25))
+                }
+                NavigationLink(destination: MyClubs(club: ModelData().oneClubTest)) {
                     Text("My Clubs")
                         .font(.system(size: 25))
                 }
