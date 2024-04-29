@@ -19,6 +19,9 @@ struct Home: View {
                 .font(.largeTitle)
                 .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
             }
+            Image("page_turner")
+                .resizable()
+                .scaledToFit() .frame(maxWidth: 400, maxHeight: 400)
             Spacer()
                 HStack{
                     NavigationLink{
