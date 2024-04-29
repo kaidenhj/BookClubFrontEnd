@@ -30,7 +30,7 @@ struct Home: View {
                 }
                 HStack{
                     NavigationLink{
-                        ClubRow(club: ModelData().oneClubTest)
+                        AllClubs(clubs: ModelData().manyClubTest)
                     } label:{
                         Text("Clubs")
                             .font(.system(size: 25))
