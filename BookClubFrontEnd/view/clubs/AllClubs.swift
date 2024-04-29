@@ -1,19 +1,19 @@
 //
-//  MyClubs.swift
+//  AllClubs.swift
 //  BookClubFrontEnd
 //
-//  Created by Kaiden Jones on 4/22/24.
+//  Created by Kaiden Jones on 4/28/24.
 //
 
 import SwiftUI
 
-struct MyClubs: View {
+struct AllClubs: View {
     var clubs : [Club]
     var body: some View {
         VStack{
             NavigationSplitView{
                 HStack{
-                    Text("My Clubs")
+                    Text("All Clubs")
                         .font(.largeTitle)
                         .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
                 }
@@ -41,5 +41,5 @@ struct MyClubs: View {
 
 #Preview {
 //    MyClubs(club: ModelData().oneClubTest)
-    MyClubs(clubs: ModelData().twoClubTest)
+    AllClubs(clubs: ModelData().manyClubTest)
 }

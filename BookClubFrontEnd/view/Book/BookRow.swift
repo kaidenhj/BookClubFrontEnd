@@ -1,27 +1,26 @@
 //
-//  ClubRow.swift
+//  BookRow.swift
 //  BookClubFrontEnd
 //
-//  Created by Kaiden Jones on 4/23/24.
+//  Created by Kaiden Jones on 4/28/24.
 //
 
 import SwiftUI
 
-struct ClubRow: View {
-    var club : Club
+struct BookRow: View {
+    var book : Book
     
     var body: some View {
         HStack{
-            Image("clubPic")
+            Image("book")
                 .resizable()
                 .scaledToFit() .frame(maxWidth: 70 , maxHeight: 70)
-            Text(club.name)
+            Text(book.volumeInfo.title)
             Spacer()
         }
-        
     }
 }
 
 #Preview {
-    ClubRow(club : ModelData().oneClubTest)
+    BookRow(book: ModelData().oneBookTest)
 }

@@ -1,45 +1,43 @@
 //
-//  MyClubs.swift
+//  MyBooks.swift
 //  BookClubFrontEnd
 //
-//  Created by Kaiden Jones on 4/22/24.
+//  Created by Kaiden Jones on 4/28/24.
 //
 
 import SwiftUI
 
-struct MyClubs: View {
-    var clubs : [Club]
+struct MyBooks: View {
+    var books : [Book]
     var body: some View {
         VStack{
             NavigationSplitView{
                 HStack{
-                    Text("My Clubs")
+                    Text("My Books")
                         .font(.largeTitle)
                         .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
                 }
-                Image("clubPic")
+                Image("book")
                     .resizable()
                     .scaledToFit() .frame(maxWidth: .infinity, maxHeight: 200)
                 
                     .padding()
                 List{
-                    ForEach(clubs) { club in
+                    ForEach(books) { book in
                         NavigationLink {
-                            ClubPage(club: club)
+                            SingleBookInfo(book: book)
                         } label: {
-                            ClubRow(club: club)
+                            BookRow(book: book)
                         }
                     }
                 }
             } detail: {
-                Text("Select a Club")
+                Text("Select a book")
             }
         }
     }
 }
 
-
 #Preview {
-//    MyClubs(club: ModelData().oneClubTest)
-    MyClubs(clubs: ModelData().twoClubTest)
+    MyBooks(books : ModelData().twoBookTest)
 }
