@@ -17,23 +17,22 @@ struct UserProfile: View {
                     .font(.system(size: 40))
                 
                 Spacer() // Pushes the name to the top
-                
-                NavigationLink(destination: EditProfile(user: ModelData().oneUserTest)){
+                NavigationLink{
+                    EditProfile(user: ModelData().oneUserTest)
+                } label:{
                     Text("Edit Profile Info")
                         .font(.system(size: 25))
                 }
-                NavigationLink(destination: MyClubs(clubs: ModelData().twoClubTest)) {
+                NavigationLink{
+                    MyClubs(clubs: ModelData().twoClubTest)
+                }label:{
                     Text("My Clubs")
                         .font(.system(size: 25))
                 }
-                
-                NavigationLink(destination: SingleBookInfo(book: ModelData().oneBookTest)) {
-                    Text("My Past Books")
+                NavigationLink(destination: MyBooks(books: ModelData().twoBookTest)) {
+                    Text("My Books")
                         .font(.system(size: 25))
                 }
-                    Text("Find New Clubs")
-                        .font(.system(size: 25))
-                
                     Text("Log Out")
                         .font(.system(size: 25))
                 

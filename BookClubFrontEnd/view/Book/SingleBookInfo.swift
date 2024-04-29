@@ -54,9 +54,13 @@ struct SingleBookInfo: View {
     }
 }
 
-struct SingleBookInfo_Previews: PreviewProvider {
-    static var previews: some View {
-        SingleBookInfo(book: ModelData().oneBookTest)
-    }
+//struct SingleBookInfo_Previews: PreviewProvider {
+//    static var previews: some View {
+//        SingleBookInfo(book: ModelData().oneBookTest)
+//    }
+//}
+
+#Preview{
+    SingleBookInfo(book: ModelData().oneBookTest)
 }
 

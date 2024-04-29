@@ -8,7 +8,7 @@
 import Foundation
 
 
-struct Book: Codable {
+struct Book: Codable, Identifiable {
     let id: String
     let volumeInfo: VolumeInfo
     struct VolumeInfo: Codable {
