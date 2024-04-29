@@ -37,12 +37,12 @@ struct Home: View {
                     }
                 }
                 HStack{
-                    Text("Books")
-                        .font(.system(size: 25))
-                }
-                HStack{
-                    Text("Clubs search page")
-                        .font(.system(size: 25))
+                    NavigationLink{
+                        AllBooks(books: ModelData().manyBookTest)
+                    } label:{
+                        Text("Books")
+                            .font(.system(size: 25))
+                    }
                 }
                 HStack{
                     Text("Log out ")

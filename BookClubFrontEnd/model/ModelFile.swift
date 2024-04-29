@@ -16,6 +16,7 @@ class ModelData {
     var twoClubTest: [Club] = load("twoClubTestData.json")
     var twoBookTest: [Book] = load("twoBookTestData.json")
     var manyClubTest: [Club] = load("manyClubTestData.json")
+    var manyBookTest: [Book] = load("manyBookTestData.json")
 }
 
 

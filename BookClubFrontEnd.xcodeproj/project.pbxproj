@@ -17,6 +17,8 @@
 		065C23752BDF221700045648 /* twoBookTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 065C23742BDF221700045648 /* twoBookTestData.json */; };
 		065C23772BDF2BC700045648 /* AllClubs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C23762BDF2BC700045648 /* AllClubs.swift */; };
 		065C23792BDF2C5C00045648 /* manyClubTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 065C23782BDF2C5C00045648 /* manyClubTestData.json */; };
+		065C237B2BDF2E7000045648 /* AllBooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065C237A2BDF2E7000045648 /* AllBooks.swift */; };
+		065C237D2BDF2EC600045648 /* manyBookTestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 065C237C2BDF2EC600045648 /* manyBookTestData.json */; };
 		0677A3712BD7301F00D6CBAA /* BookClubFrontEndApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */; };
 		0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3722BD7301F00D6CBAA /* ContentView.swift */; };
 		0677A3752BD7301F00D6CBAA /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3742BD7301F00D6CBAA /* Item.swift */; };
@@ -73,6 +75,8 @@
 		065C23742BDF221700045648 /* twoBookTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = twoBookTestData.json; sourceTree = "<group>"; };
 		065C23762BDF2BC700045648 /* AllClubs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllClubs.swift; sourceTree = "<group>"; };
 		065C23782BDF2C5C00045648 /* manyClubTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = manyClubTestData.json; sourceTree = "<group>"; };
+		065C237A2BDF2E7000045648 /* AllBooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllBooks.swift; sourceTree = "<group>"; };
+		065C237C2BDF2EC600045648 /* manyBookTestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = manyBookTestData.json; sourceTree = "<group>"; };
 		0677A36D2BD7301F00D6CBAA /* BookClubFrontEnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookClubFrontEnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookClubFrontEndApp.swift; sourceTree = "<group>"; };
 		0677A3722BD7301F00D6CBAA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -144,6 +148,7 @@
 				8118BA582BD86AD80079C7E4 /* SingleBookInfo.swift */,
 				065C23702BDF208F00045648 /* BookRow.swift */,
 				065C23722BDF218200045648 /* MyBooks.swift */,
+				065C237A2BDF2E7000045648 /* AllBooks.swift */,
 			);
 			path = Book;
 			sourceTree = "<group>";
@@ -222,6 +227,7 @@
 		0677A3BD2BD7620700D6CBAA /* resources */ = {
 			isa = PBXGroup;
 			children = (
+				065C237C2BDF2EC600045648 /* manyBookTestData.json */,
 				8118BA612BD871210079C7E4 /* oneBookTestData.json */,
 				819F21DF2BDBED530097E6C4 /* oneUserTestData.json */,
 				819F21E12BDBEE650097E6C4 /* oneReviewTestData.json */,
@@ -385,6 +391,7 @@
 				0677A37A2BD7302200D6CBAA /* Preview Assets.xcassets in Resources */,
 				8118BA622BD871210079C7E4 /* oneBookTestData.json in Resources */,
 				819F21E02BDBED530097E6C4 /* oneUserTestData.json in Resources */,
+				065C237D2BDF2EC600045648 /* manyBookTestData.json in Resources */,
 				065C23752BDF221700045648 /* twoBookTestData.json in Resources */,
 				819F21E22BDBEE650097E6C4 /* oneReviewTestData.json in Resources */,
 				065C23792BDF2C5C00045648 /* manyClubTestData.json in Resources */,
@@ -434,6 +441,7 @@
 				0677A3CB2BD7F90600D6CBAA /* BookIcon.swift in Sources */,
 				065C23732BDF218200045648 /* MyBooks.swift in Sources */,
 				0677A3AE2BD75BE000D6CBAA /* ModelFile.swift in Sources */,
+				065C237B2BDF2E7000045648 /* AllBooks.swift in Sources */,
 				065C23712BDF208F00045648 /* BookRow.swift in Sources */,
 				0677A3B52BD75FE200D6CBAA /* Book.swift in Sources */,
 				0677A3C62BD7F57500D6CBAA /* ClubRow.swift in Sources */,
