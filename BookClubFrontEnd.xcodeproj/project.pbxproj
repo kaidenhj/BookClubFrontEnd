@@ -37,7 +37,7 @@
 		0677A3B72BD760F400D6CBAA /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3B62BD760F400D6CBAA /* Review.swift */; };
 		0677A3C62BD7F57500D6CBAA /* ClubRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3C52BD7F57500D6CBAA /* ClubRow.swift */; };
 		0677A3CB2BD7F90600D6CBAA /* BookIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */; };
-		8118BA592BD86AD80079C7E4 /* SingleBookInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA582BD86AD80079C7E4 /* SingleBookInfo.swift */; };
+		8118BA592BD86AD80079C7E4 /* BookPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA582BD86AD80079C7E4 /* BookPage.swift */; };
 		8118BA5C2BD86BEA0079C7E4 /* ReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5B2BD86BEA0079C7E4 /* ReviewView.swift */; };
 		8118BA5E2BD86BF50079C7E4 /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5D2BD86BF50079C7E4 /* Reviews.swift */; };
 		8118BA602BD86C3F0079C7E4 /* WriteReview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118BA5F2BD86C3F0079C7E4 /* WriteReview.swift */; };
@@ -98,7 +98,7 @@
 		0677A3B62BD760F400D6CBAA /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
 		0677A3C52BD7F57500D6CBAA /* ClubRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClubRow.swift; sourceTree = "<group>"; };
 		0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookIcon.swift; sourceTree = "<group>"; };
-		8118BA582BD86AD80079C7E4 /* SingleBookInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleBookInfo.swift; sourceTree = "<group>"; };
+		8118BA582BD86AD80079C7E4 /* BookPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookPage.swift; sourceTree = "<group>"; };
 		8118BA5B2BD86BEA0079C7E4 /* ReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
 		8118BA5D2BD86BF50079C7E4 /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
 		8118BA5F2BD86C3F0079C7E4 /* WriteReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteReview.swift; sourceTree = "<group>"; };
@@ -145,7 +145,7 @@
 		065C236F2BDF207800045648 /* Book */ = {
 			isa = PBXGroup;
 			children = (
-				8118BA582BD86AD80079C7E4 /* SingleBookInfo.swift */,
+				8118BA582BD86AD80079C7E4 /* BookPage.swift */,
 				065C23702BDF208F00045648 /* BookRow.swift */,
 				065C23722BDF218200045648 /* MyBooks.swift */,
 				065C237A2BDF2E7000045648 /* AllBooks.swift */,
@@ -177,7 +177,7 @@
 			isa = PBXGroup;
 			children = (
 				0677A3702BD7301F00D6CBAA /* BookClubFrontEndApp.swift */,
-				0677A3C32BD7F50400D6CBAA /* view */,
+				0677A3C32BD7F50400D6CBAA /* View */,
 				0677A3BD2BD7620700D6CBAA /* resources */,
 				0677A3AF2BD75C4E00D6CBAA /* model */,
 				0677A3742BD7301F00D6CBAA /* Item.swift */,
@@ -239,7 +239,7 @@
 			path = resources;
 			sourceTree = "<group>";
 		};
-		0677A3C32BD7F50400D6CBAA /* view */ = {
+		0677A3C32BD7F50400D6CBAA /* View */ = {
 			isa = PBXGroup;
 			children = (
 				0677A3722BD7301F00D6CBAA /* ContentView.swift */,
@@ -247,13 +247,13 @@
 				065C236F2BDF207800045648 /* Book */,
 				065C236E2BDF203200045648 /* User */,
 				8118BA5A2BD86BD90079C7E4 /* Reviews */,
-				0677A3C42BD7F53500D6CBAA /* clubs */,
-				0677A3C72BD7F84400D6CBAA /* helper */,
+				0677A3C42BD7F53500D6CBAA /* Clubs */,
+				0677A3C72BD7F84400D6CBAA /* Helper */,
 			);
-			path = view;
+			path = View;
 			sourceTree = "<group>";
 		};
-		0677A3C42BD7F53500D6CBAA /* clubs */ = {
+		0677A3C42BD7F53500D6CBAA /* Clubs */ = {
 			isa = PBXGroup;
 			children = (
 				0677A39F2BD73B9100D6CBAA /* MyClubs.swift */,
@@ -261,17 +261,17 @@
 				065C23602BDDC2B000045648 /* ClubPage.swift */,
 				065C23762BDF2BC700045648 /* AllClubs.swift */,
 			);
-			path = clubs;
+			path = Clubs;
 			sourceTree = "<group>";
 		};
-		0677A3C72BD7F84400D6CBAA /* helper */ = {
+		0677A3C72BD7F84400D6CBAA /* Helper */ = {
 			isa = PBXGroup;
 			children = (
 				0677A3CA2BD7F90600D6CBAA /* BookIcon.swift */,
 				065C23622BDDC7A700045648 /* ClubIcon.swift */,
 				065C23662BDF08DC00045648 /* UserIcon.swift */,
 			);
-			path = helper;
+			path = Helper;
 			sourceTree = "<group>";
 		};
 		8118BA5A2BD86BD90079C7E4 /* Reviews */ = {
@@ -430,7 +430,7 @@
 				8118BA602BD86C3F0079C7E4 /* WriteReview.swift in Sources */,
 				0677A3732BD7301F00D6CBAA /* ContentView.swift in Sources */,
 				0677A3752BD7301F00D6CBAA /* Item.swift in Sources */,
-				8118BA592BD86AD80079C7E4 /* SingleBookInfo.swift in Sources */,
+				8118BA592BD86AD80079C7E4 /* BookPage.swift in Sources */,
 				0677A3B12BD75C6300D6CBAA /* User.swift in Sources */,
 				0677A3B72BD760F400D6CBAA /* Review.swift in Sources */,
 				065C23772BDF2BC700045648 /* AllClubs.swift in Sources */,
