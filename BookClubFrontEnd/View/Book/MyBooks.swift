@@ -25,7 +25,7 @@ struct MyBooks: View {
                 List{
                     ForEach(books) { book in
                         NavigationLink {
-                            SingleBookInfo(book: book)
+                            BookPage(book: book)
                         } label: {
                             BookRow(book: book)
                         }

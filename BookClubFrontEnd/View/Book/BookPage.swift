@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SingleBookInfo: View {
+struct BookPage: View {
     var book: Book
     
     var body: some View {
@@ -61,6 +61,6 @@ struct SingleBookInfo: View {
 //}
 
 #Preview{
-    SingleBookInfo(book: ModelData().oneBookTest)
+    BookPage(book: ModelData().oneBookTest)
 }
 
