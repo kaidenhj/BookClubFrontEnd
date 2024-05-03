@@ -11,7 +11,7 @@ struct BookPage: View {
     var book: Book
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ScrollView {
                 VStack(spacing: 20) {
                     Text(book.volumeInfo.title)

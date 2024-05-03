@@ -11,7 +11,7 @@ struct UserProfile: View {
     var user : User
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             VStack(spacing: 20) { // Added spacing between VStack elements
                 Text("Cole Prochilo")
                     .font(.system(size: 40))

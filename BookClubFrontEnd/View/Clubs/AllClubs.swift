@@ -11,7 +11,7 @@ struct AllClubs: View {
     var clubs : [Club]
     var body: some View {
         VStack{
-            NavigationSplitView{
+            NavigationStack{
                 HStack{
                     Text("All Clubs")
                         .font(.largeTitle)
@@ -31,9 +31,10 @@ struct AllClubs: View {
                         }
                     }
                 }
-            } detail: {
-                Text("Select a Club")
-            }
+            } 
+//        detail: {
+//                Text("Select a Club")
+//            }
         }
     }
 }

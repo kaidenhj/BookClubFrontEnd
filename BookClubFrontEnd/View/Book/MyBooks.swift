@@ -11,7 +11,7 @@ struct MyBooks: View {
     var books : [Book]
     var body: some View {
         VStack{
-            NavigationSplitView{
+            NavigationStack{
                 HStack{
                     Text("My Books")
                         .font(.largeTitle)
@@ -31,9 +31,10 @@ struct MyBooks: View {
                         }
                     }
                 }
-            } detail: {
-                Text("Select a book")
-            }
+            } 
+//        detail: {
+//                Text("Select a book")
+//            }
         }
     }
 }
